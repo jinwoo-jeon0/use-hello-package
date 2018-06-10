@@ -4,4 +4,4 @@
 
 "hello-package@https://github.com/jinwoo-jeon0/hello-package.git":
   version "1.0.0"
-  resolved "https://github.com/jinwoo-jeon0/hello-package.git#d1d6541bf5d0cb80a20189859e713c8fef5bbfa2"
+  resolved "https://github.com/jinwoo-jeon0/hello-package.git#8cd2746c00a4125e5f30bd7fc3a470e975001470"
